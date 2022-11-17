@@ -1,0 +1,43 @@
+﻿  run_sim.cpp
+C:\Users\Cyrus\OneDrive - Imperial College London\Documents\GitHub\eigen\Eigen\src\Core\util\Memory.h(107,91): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Cyrus\OneDrive - Imperial College London\Documents\GitHub\eigen\Eigen\src\Core\util\Memory.h(136,93): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(28,99): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(28,68): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(29,63): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(29,50): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(30,111): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(30,74): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(31,119): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(31,78): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(32,119): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(32,78): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(33,119): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(33,78): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(34,105): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(34,71): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(35,105): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(35,71): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(36,105): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(36,71): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(43,79): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(43,58): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(44,93): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(44,65): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(45,89): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\saving_file.h(45,63): warning C4244: 'argument': conversion from 'Eigen::Index' to 'unsigned int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\run_sim.cpp(70,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  simulation.cpp
+C:\Users\Cyrus\OneDrive - Imperial College London\Documents\GitHub\eigen\Eigen\src\Core\util\Memory.h(107,91): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Cyrus\OneDrive - Imperial College London\Documents\GitHub\eigen\Eigen\src\Core\util\Memory.h(136,93): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\simulation.cpp(84,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\simulation.cpp(131,16): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\simulation.cpp(158,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\simulation.cpp(280,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\simulation.cpp(292,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\simulation.cpp(493,34): warning C4101: 'ex': unreferenced local variable
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\simulation.cpp(520,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  walkers.cpp
+C:\Users\Cyrus\OneDrive - Imperial College London\Documents\GitHub\eigen\Eigen\src\Core\util\Memory.h(107,91): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\Cyrus\OneDrive - Imperial College London\Documents\GitHub\eigen\Eigen\src\Core\util\Memory.h(136,93): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+  Generating Code...
+  Random Walk VS.vcxproj -> C:\Users\Cyrus\source\repos\Random Walk VS\x64\Debug\Random Walk VS.exe

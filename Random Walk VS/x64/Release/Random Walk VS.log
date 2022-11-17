@@ -1,0 +1,12 @@
+﻿  polygon.cpp
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\polygon.h(4,10): fatal  error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  read_myocytes.cpp
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\read_myocytes.h(5,10): fatal  error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  run_sim.cpp
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\montecarlofile.h(4,10): fatal  error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  scansequence.cpp
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\sequence.h(4,10): fatal  error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  substrate.cpp
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\myocytes.h(5,10): fatal  error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory
+  transform.cpp
+C:\Users\Cyrus\source\repos\Random Walk VS\Random Walk VS\transform.h(4,10): fatal  error C1083: Cannot open include file: 'Eigen/Dense': No such file or directory

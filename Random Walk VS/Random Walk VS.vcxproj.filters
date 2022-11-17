@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\inputs">
+      <UniqueIdentifier>{c3029506-b339-429f-9502-c0b4c9ccf562}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MRI">
+      <UniqueIdentifier>{a7875f9d-6d9a-4ba8-9be4-0818ac39a879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MRI">
+      <UniqueIdentifier>{d72d5bca-efe2-45e9-914c-9c0cba43dcb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\substrate">
+      <UniqueIdentifier>{fa878b6e-a285-40bd-801d-52472b620c0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\substrate">
+      <UniqueIdentifier>{97060760-a20b-4480-a322-11dd89a68f2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\geometry">
+      <UniqueIdentifier>{333c777d-d271-448d-8df1-2d21e3dff0d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\geometry">
+      <UniqueIdentifier>{243b46ce-5873-43ef-b0b4-6ec2d7850652}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\montecarlo">
+      <UniqueIdentifier>{981ca3f2-fb90-4fee-aaad-fc87086e83f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\montecarlo">
+      <UniqueIdentifier>{cec8ca77-21bd-4d97-9ccf-2dff1c205e58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\testing">
+      <UniqueIdentifier>{822888d6-a182-4662-b315-442a86c3e5a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\testing">
+      <UniqueIdentifier>{0449c2c4-75d5-4ebc-93d9-bde26b4ef589}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="run_sim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scansequence.cpp">
+      <Filter>Source Files\MRI</Filter>
+    </ClCompile>
+    <ClCompile Include="read_myocytes.cpp">
+      <Filter>Source Files\substrate</Filter>
+    </ClCompile>
+    <ClCompile Include="polygon.cpp">
+      <Filter>Source Files\geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="substrate.cpp">
+      <Filter>Source Files\substrate</Filter>
+    </ClCompile>
+    <ClCompile Include="transform.cpp">
+      <Filter>Source Files\substrate</Filter>
+    </ClCompile>
+    <ClCompile Include="walkers.cpp">
+      <Filter>Source Files\montecarlo</Filter>
+    </ClCompile>
+    <ClCompile Include="simulation.cpp">
+      <Filter>Source Files\montecarlo</Filter>
+    </ClCompile>
+    <ClCompile Include="process_signal.cpp">
+      <Filter>Source Files\MRI</Filter>
+    </ClCompile>
+    <ClCompile Include="testing.cpp">
+      <Filter>Source Files\testing</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="montecarlofile.h">
+      <Filter>Header Files\inputs</Filter>
+    </ClInclude>
+    <ClInclude Include="sequencefile.h">
+      <Filter>Header Files\inputs</Filter>
+    </ClInclude>
+    <ClInclude Include="sequence.h">
+      <Filter>Header Files\MRI</Filter>
+    </ClInclude>
+    <ClInclude Include="read_myocytes.h">
+      <Filter>Header Files\substrate</Filter>
+    </ClInclude>
+    <ClInclude Include="myocytes.h">
+      <Filter>Header Files\substrate</Filter>
+    </ClInclude>
+    <ClInclude Include="substratefile.h">
+      <Filter>Header Files\inputs</Filter>
+    </ClInclude>
+    <ClInclude Include="scansequence.h">
+      <Filter>Header Files\MRI</Filter>
+    </ClInclude>
+    <ClInclude Include="substrate.h">
+      <Filter>Header Files\substrate</Filter>
+    </ClInclude>
+    <ClInclude Include="polygon.h">
+      <Filter>Header Files\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="boundingbox.h">
+      <Filter>Header Files\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="intersection_info.h">
+      <Filter>Header Files\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="intersection_ray_info.h">
+      <Filter>Header Files\geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="transform.h">
+      <Filter>Header Files\substrate</Filter>
+    </ClInclude>
+    <ClInclude Include="transform_parameter.h">
+      <Filter>Header Files\substrate</Filter>
+    </ClInclude>
+    <ClInclude Include="walkers.h">
+      <Filter>Header Files\montecarlo</Filter>
+    </ClInclude>
+    <ClInclude Include="simulation.h">
+      <Filter>Header Files\montecarlo</Filter>
+    </ClInclude>
+    <ClInclude Include="particle_state.h">
+      <Filter>Header Files\montecarlo</Filter>
+    </ClInclude>
+    <ClInclude Include="testing.h">
+      <Filter>Header Files\testing</Filter>
+    </ClInclude>
+    <ClInclude Include="process_signal.h">
+      <Filter>Header Files\MRI</Filter>
+    </ClInclude>
+    <ClInclude Include="saving_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\OneDrive - Imperial College London\Documents\GitHub\Random-Walk-with-Cardiac-Diffusion-Tensor-Imaging\myocytes\geometry_0.mat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\OneDrive - Imperial College London\Documents\GitHub\Random-Walk-with-Cardiac-Diffusion-Tensor-Imaging\myocytes\geometry_1.mat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\OneDrive - Imperial College London\Documents\GitHub\Random-Walk-with-Cardiac-Diffusion-Tensor-Imaging\myocytes\geometry_2.mat">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
